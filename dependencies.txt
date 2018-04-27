@@ -1,0 +1,5 @@
+  NEEDED               libm.so.6
+  NEEDED               libX11.so.6
+  NEEDED               libncurses.so.5
+  NEEDED               libtinfo.so.5
+  NEEDED               libc.so.6
