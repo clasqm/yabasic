@@ -1,5 +1,5 @@
 Package: yabasic
-Version: 2.79.0-1
+Version: 2.86.8-1
 Section: base
 Priority: optional
 Architecture: amd64
@@ -13,4 +13,3 @@ Description: yabasic
  and printing. Yabasic runs under Unix and Windows,
  it is small, open source and free. Source available (MIT-
  licensed) at www.yabasic.de.
- 
